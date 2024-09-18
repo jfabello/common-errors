@@ -1,5 +1,5 @@
 {
-	"name": "@jfabello/commonerrors",
+	"name": "@jfabello/common-errors",
 	"version": "1.0.0",
 	"description": "Common error classes.",
 	"keywords": [
@@ -12,7 +12,7 @@
 		"name": "Juan F. Abello",
 		"email": "juan@jfabello.com"
 	},
-	"main": "commonerrors.js",
+	"main": "common-errors.js",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/jfabello/common-errors.git"

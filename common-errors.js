@@ -1,5 +1,5 @@
 /**
- * @module jfabello/commonerrors
+ * @module jfabello/common-errors
  * @description  Common error classes.
  * @license GPL-3.0-only
  * @author Juan F. Abello <juan@jfabello.com>
