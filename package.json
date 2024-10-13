@@ -1,0 +1,23 @@
+{
+	"name": "@jfabello/common-errors",
+	"version": "1.0.0",
+	"description": "Common error classes.",
+	"keywords": [
+		"common",
+		"errors",
+		"node"
+	],
+	"license": "GPL-3.0-only",
+	"author": {
+		"name": "Juan F. Abello",
+		"email": "juan@jfabello.com"
+	},
+	"main": "common-errors.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jfabello/common-errors.git"
+	},
+	"engines": {
+		"node": ">=18"
+	}
+}
