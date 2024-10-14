@@ -1,7 +1,7 @@
 {
 	"name": "@jfabello/common-errors",
 	"version": "1.0.0",
-	"description": "Common error classes.",
+	"description": "Common error classes for Node.js.",
 	"keywords": [
 		"common",
 		"errors",
